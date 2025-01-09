@@ -1,7 +1,7 @@
 # PRUEBA TÉCNICA LINKME - JONATHAN ORTEGA
 
 ## PREGUNTA 1
-
+![ARQ](COMPONENTESP1.jpg)
 
 ### Justificación de Decisiones Arquitectónicas TeCnologías
 C#, Su integración con .NET proporciona herramientas robustas para manejar lógica de negocio compleja y APIs RESTful de alto rendimiento y es ideal para sistemas empresariales que requieren manejo eficiente de datos y características como validación y autorización.
